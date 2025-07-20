@@ -24,7 +24,6 @@ credit-card-fraud-detection/
 
 🚀 Features
 ✅ Preprocessed credit card dataset
-
 ✅ SMOTE for handling imbalanced data
 
 ✅ Trained Random Forest classifier
