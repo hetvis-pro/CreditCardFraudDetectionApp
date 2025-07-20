@@ -23,13 +23,19 @@ credit-card-fraud-detection/
 └── README.md # You're here!
 
 🚀 Features
+
 ✅ Preprocessed credit card dataset
+
 ✅ SMOTE for handling imbalanced data
 
 ✅ Trained Random Forest classifier
+
 ✅ REST API with Flask
+
 ✅ Frontend with React + Bootstrap
+
 ✅ Predict if a transaction is Fraud or Not Fraud
+
 ✅ User-friendly UI
 
 ⚙️ Setup Instructions
