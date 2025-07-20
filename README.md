@@ -47,7 +47,7 @@ cd CreditCardFraudDetectionApp
    python app.py
    The server runs at: http://localhost:5000
 
-🌐 3. Frontend Setup (React)
+⚛️ 3. Frontend Setup (React)
 1.Install dependencies:
 cd client
 npm install
