@@ -1,0 +1,20 @@
+
+# Root-level ignore
+__pycache__/
+*.pyc
+.env
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore frontend build and node_modules
+client/node_modules/
+client/build/
+
+# Ignore root node_modules (if it accidentally comes back)
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
